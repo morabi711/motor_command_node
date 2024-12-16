@@ -1,0 +1,4 @@
+[console_scripts]
+motor_command_node = motor_command_node.motor_command_node:main
+motor_control_node = motor_command_node.motor_control_node:main
+

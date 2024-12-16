@@ -1,0 +1,33 @@
+running egg_info
+creating build/motor_command_node/motor_command_node.egg-info
+writing build/motor_command_node/motor_command_node.egg-info/PKG-INFO
+writing dependency_links to build/motor_command_node/motor_command_node.egg-info/dependency_links.txt
+writing entry points to build/motor_command_node/motor_command_node.egg-info/entry_points.txt
+writing requirements to build/motor_command_node/motor_command_node.egg-info/requires.txt
+writing top-level names to build/motor_command_node/motor_command_node.egg-info/top_level.txt
+writing manifest file 'build/motor_command_node/motor_command_node.egg-info/SOURCES.txt'
+reading manifest file 'build/motor_command_node/motor_command_node.egg-info/SOURCES.txt'
+writing manifest file 'build/motor_command_node/motor_command_node.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/mariam/dev_ws/src/motor_command_node/build/motor_command_node/build
+creating /home/mariam/dev_ws/src/motor_command_node/build/motor_command_node/build/lib
+creating /home/mariam/dev_ws/src/motor_command_node/build/motor_command_node/build/lib/motor_command_node
+copying motor_command_node/__init__.py -> /home/mariam/dev_ws/src/motor_command_node/build/motor_command_node/build/lib/motor_command_node
+copying motor_command_node/motor_control_node.py -> /home/mariam/dev_ws/src/motor_command_node/build/motor_command_node/build/lib/motor_command_node
+copying motor_command_node/motor_command_node.py -> /home/mariam/dev_ws/src/motor_command_node/build/motor_command_node/build/lib/motor_command_node
+running install
+running install_lib
+creating /home/mariam/dev_ws/src/motor_command_node/install/motor_command_node/lib/python3.10/site-packages/motor_command_node
+copying /home/mariam/dev_ws/src/motor_command_node/build/motor_command_node/build/lib/motor_command_node/__init__.py -> /home/mariam/dev_ws/src/motor_command_node/install/motor_command_node/lib/python3.10/site-packages/motor_command_node
+copying /home/mariam/dev_ws/src/motor_command_node/build/motor_command_node/build/lib/motor_command_node/motor_control_node.py -> /home/mariam/dev_ws/src/motor_command_node/install/motor_command_node/lib/python3.10/site-packages/motor_command_node
+copying /home/mariam/dev_ws/src/motor_command_node/build/motor_command_node/build/lib/motor_command_node/motor_command_node.py -> /home/mariam/dev_ws/src/motor_command_node/install/motor_command_node/lib/python3.10/site-packages/motor_command_node
+byte-compiling /home/mariam/dev_ws/src/motor_command_node/install/motor_command_node/lib/python3.10/site-packages/motor_command_node/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/mariam/dev_ws/src/motor_command_node/install/motor_command_node/lib/python3.10/site-packages/motor_command_node/motor_control_node.py to motor_control_node.cpython-310.pyc
+byte-compiling /home/mariam/dev_ws/src/motor_command_node/install/motor_command_node/lib/python3.10/site-packages/motor_command_node/motor_command_node.py to motor_command_node.cpython-310.pyc
+running install_egg_info
+Copying build/motor_command_node/motor_command_node.egg-info to /home/mariam/dev_ws/src/motor_command_node/install/motor_command_node/lib/python3.10/site-packages/motor_command_node-0.0.1-py3.10.egg-info
+running install_scripts
+Installing motor_command_node script to /home/mariam/dev_ws/src/motor_command_node/install/motor_command_node/lib/motor_command_node
+Installing motor_control_node script to /home/mariam/dev_ws/src/motor_command_node/install/motor_command_node/lib/motor_command_node
+writing list of installed files to '/home/mariam/dev_ws/src/motor_command_node/build/motor_command_node/install.log'
